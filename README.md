@@ -1,4 +1,14 @@
-# OSWP-Cheatsheet
+# OSWP-Cheatsheet en español
+
+Conecptos:
+
+AP → Punto de acceso (ap wifi, router inalámbrico)
+
+STA → Estación (Computador, Celular, etc.)
+
+BSS → Conjunto de Servicios Básicos (Conjunto conformado por un AP y varios STA)
+
+ESS → Conjunto de Servicios Extendidos (Conjunto conformado por varios AP y varios STA que no pierden conectividad al cambiar de AP)
 
 ```javascript
 const thai = {
